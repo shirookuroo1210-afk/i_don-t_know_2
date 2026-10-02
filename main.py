@@ -21,3 +21,4 @@ for hasil in kata:
 for k, v in hitung.items():
     print(f"{k} : {v}")
 count_words
+#code written by lyvo
